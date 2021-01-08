@@ -1,0 +1,17 @@
+probe:
+  timeout: 5
+  limit: 10
+  headers:
+    user-agent: Mozilla/5.0 (Linux; Android 6.0.1; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Mobile Safari/537.36 Edg/87.0.664.66
+
+ping:
+  - 114.114.114.114
+  - 1.1.1.1
+  - 114.114.115.115
+  - 8.8.8.8
+
+url:
+  - https://www.baidu.com
+  - https://github.com/
+  - https://bbs.ngacn.cc
+  - https://www.163.com
